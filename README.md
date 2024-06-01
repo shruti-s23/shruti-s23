@@ -3,7 +3,7 @@
 </div>
 
 - 👋 _Hi, I’m @shruti-s23_
-- ☁️ _I'm a data science, mathematics student_
+- ☁️ _I'm a data science, mathematics double major_
 - 🌱 _I’m currently working on my summer internship_
   
 
