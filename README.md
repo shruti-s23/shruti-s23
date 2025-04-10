@@ -4,7 +4,7 @@
 
 - 👋 _Hi, I’m @shruti-s23_
 - ☁️ _I'm a data science, mathematics double major_
-- 🌱 _I’m currently in the second year of my Bachelor's Degree_
+- 🌱 _I’m currently in the third year of my Bachelor's Degree_
   
 
 <!---
